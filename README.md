@@ -1,5 +1,8 @@
-# Friend Reminder
-- Helps remind you to contact your friends! 
+# Hello Express
+- Intro Express App
+- use "http://localhost:4004/hello" to say hello
+- use "http://localhost:4004/hello?name=yourName" to say hello with your name
+- use "http://localhost:4004/ip" to get IP
 
 Full-stack TypeScript project:
 - **Client**: React + Vite + TypeScript
@@ -9,4 +12,3 @@ Full-stack TypeScript project:
 - Clone the repo
 - 'npm i' from root
 - 'npm run dev' from root
-- 'npm test' to run backend Jest tests
